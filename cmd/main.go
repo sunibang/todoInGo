@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/todoInGo/pkg/handlers"
+	"github.com/sunibang/todoInGo/pkg/handlers"
 )
 
 func main() {
